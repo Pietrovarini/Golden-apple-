@@ -1,5 +1,7 @@
-# Golden-apple-
-Reactor for unlimited energy 
+# GOLDEN APPLE 
+Reactor for "unlimited" energy 
+
+(Theorical model and project)
 
 
 THEORICAL MODEL 

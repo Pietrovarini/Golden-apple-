@@ -44,39 +44,5 @@ Amplification: The toroidal effect, combined with materials of high magnetic per
 To extract energy, electromagnetic sensors and collectors can be used to convert the magnetic flux into usable electric current. These collectors must be designed to operate without interfering with the self-sustaining magnetic flux.
 
 
----
-
-Second Part: Model Breakdown
-
-First Part: Presentation for Researchers (Engaging, but Incomplete)
-
-This toroidal reactor represents an innovative approach to generating energy by harnessing self-sustaining electromagnetic fields. Toroidal geometry is well known for its ability to contain and amplify magnetic fluxes, reducing energy dispersion and increasing the overall efficiency of the system. The reactor can be powered by an initial electrical source, which creates a circulating electromagnetic field within the toroid.
-
-The materials used for the toroid structure and the coils placed around its perimeter are selected to optimize the creation and stability of the magnetic field, reducing energy losses and allowing effective management of the magnetic flux.
-
-Key points:
-
-Toroidal geometry for optimal containment of the electromagnetic field.
-
-Use of high-efficiency electromagnetic materials to reduce losses.
-
-Creation of a self-sustaining field with potential electromagnetic amplification.
-
-
-This technology offers a new pathway for energy generation, based on well-established and tested principles in magnetic field science.
-
-Second Part: Full Model (Crucial Information)
-
-In the second part of the project, the true innovation comes into play: the amplification of the electromagnetic field thanks to the toroidal shape and the use of superconducting or ferromagnetic materials with high permeability. The arrangement of the coils and the internal electromagnetic resonance allow the system to potentially extract more energy than was introduced, making it self-sustaining.
-
-Additionally, the structure of the system allows for energy collection from the generated magnetic field through specially designed collectors, which convert the electromagnetic energy into electric current without interfering with the field's stability.
-
-Advanced Key Points:
-
-Electromagnetic amplification effects thanks to the internal resonance of the toroid.
-
-Optimized energy extractors that do not interfere with the self-sustaining field.
-
-Potential for unlimited energy generation in an optimal theoretical context.
 
 

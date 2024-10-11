@@ -1,5 +1,6 @@
 # Golden-apple-
-Reactor for unlimited energy that WILL WORK
+Reactor for unlimited energy 
+
 
 
 Model of the Unlimited Energy Generator - Electromagnetic Toroidal Reactor
